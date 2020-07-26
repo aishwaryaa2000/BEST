@@ -2,7 +2,7 @@
 	$username="root"; //username for database
 	$password=""; //database password
 	$hostname="localhost"; //hostname
-	$dbname="bestnew"; //database name
+	$dbname="best"; //database name
 	$teston = true;
 	
 							//localhost,root
